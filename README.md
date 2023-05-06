@@ -27,12 +27,12 @@
   <img width="100" height="100" src="https://newrelic.com/sites/default/files/styles/og_image/public/2021-10/mongo_logo.jpg?h=2a479378&itok=_jsp1xWA">
   <img width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLy-1SN4fo9U4Sn7S4aI_PyQr5x9sODPQ6V2-YHT4&s">
   
- # Use Of Library 📙:
- 
-    🟠 
-    🟠   
-    🟠 
-    🟠 
-    🟠 
-    🟠 
+ # Use Of Library 📙: 
+    🟠 body-parser
+    🟠 connect-mongo
+    🟠 data-parser
+    🟠 dotenv
+    🟠 express
+    🟠 mongoose
+    🟠 node-sass
   
